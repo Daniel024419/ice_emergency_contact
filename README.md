@@ -45,3 +45,11 @@ Develop and implement a user-friendly mobile and web platform designed to notify
    - Real-time analytics for tracking and improving response times.
    - Incident logs and reports for users and administrators.
    - Machine learning algorithms to predict and prevent potential accidents.
+
+
+This project is currently assigned to Group 4. The members of the group are named below:
+Jonathan Agyemang Duah     - BT/ITS/23/033
+Richard Derrick McAdams    - BT/ITS/23/027
+Daniel Forson              - BTITS23005
+Daniel Panyin Mensah       - BTITS23006
+Justice Abban              - BTITS23007
